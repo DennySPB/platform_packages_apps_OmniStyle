@@ -51,7 +51,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".nature"
-            android:label="Nature" >
+            android:label="@string/header_nature" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -61,7 +61,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".poly"
-            android:label="Poly" >
+            android:label="@string/header_poly" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -71,7 +71,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".naturerandom"
-            android:label="Nature (random)" >
+            android:label="@string/header_naturerandom" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -81,7 +81,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".wavvy"
-            android:label="Wavvy by Travis Hall" >
+            android:label="@string/header_wavvy" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
