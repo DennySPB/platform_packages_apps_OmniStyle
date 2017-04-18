@@ -15,5 +15,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <resources>
     <string name="browse_header">Intestazioni</string>
     <string name="custom_header_image_notice">Imposta l\'immagine d\'intestazione</string>
-    <string name="header_pack_label1">Avvitato</string>
+    <string name="header_pack_label1">Colline</string>
+    <string name="header_wavvy">Faro</string>
+    <string name="header_naturerandom">Natura (casuale)</string>
+    <string name="header_poly">Pittura</string>
+    <string name="header_nature">Natura</string>
 </resources>
