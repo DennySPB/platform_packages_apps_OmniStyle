@@ -13,11 +13,12 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-    <string name="browse_header">Intestazioni</string>
+    <string name="browse_header">Intestazione</string>
     <string name="custom_header_image_notice">Imposta l\'immagine d\'intestazione</string>
     <string name="header_pack_label1">Colline</string>
     <string name="header_wavvy">Faro</string>
     <string name="header_naturerandom">Natura (casuale)</string>
     <string name="header_poly">Pittura</string>
     <string name="header_nature">Natura</string>
+    <string name="weather_color">Icone meteo (colorate)</string>
 </resources>
