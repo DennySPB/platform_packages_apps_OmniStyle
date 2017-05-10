@@ -41,7 +41,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".weather_color"
-            android:label="LockClock (color)" >
+            android:label="@string/weather_color" >
             <intent-filter>
                 <action android:name="org.omnirom.WeatherIconPack" />
 
