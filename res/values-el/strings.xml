@@ -16,4 +16,12 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+  <string name="browse_header">Κεφαλίδες</string>
+  <string name="custom_header_image_notice">Πακέτο εικόνων κεφαλίδας</string>
+  <string name="header_pack_label1">Βιδωμένο</string>
+  <string name="header_naturerandom">Φύση (τυχαίο)</string>
+  <string name="header_nature">Φύση</string>
+  <string name="weather_color">Ρολόι οθόνης κλειδώματος (χρώμα)</string>
+  <string name="header_creator_label">Δημιουργός: </string>
+</resources>
