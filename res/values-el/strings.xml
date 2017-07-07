@@ -20,7 +20,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Κεφαλίδες</string>
   <string name="custom_header_image_notice">Πακέτο εικόνων κεφαλίδας</string>
   <string name="header_pack_label1">Βιδωμένο</string>
+  <string name="header_pack_label2">Aex</string>
+  <string name="header_pack_label3">#BeExtended</string>
+  <string name="header_wavvy">Wavvy</string>
   <string name="header_naturerandom">Φύση (τυχαίο)</string>
+  <string name="header_poly">Poly</string>
   <string name="header_nature">Φύση</string>
   <string name="weather_color">Ρολόι οθόνης κλειδώματος (χρώμα)</string>
   <string name="header_creator_label">Δημιουργός: </string>
