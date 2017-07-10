@@ -19,10 +19,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <resources>
   <string name="browse_header">Cabeçalho</string>
   <string name="custom_header_image_notice">Conjunto de imagem de cabeçalho</string>
-  <string name="header_pack_label1">Aparafusado</string>
-  <string name="header_pack_label2">Aex</string>
+  <string name="header_pack_label1">Screwd</string>
+  <string name="header_pack_label2">AEX</string>
   <string name="header_pack_label3">#BeExtended</string>
+  <string name="header_wavvy">Wavvy</string>
   <string name="header_naturerandom">Natureza (aleatório)</string>
-  <string name="weather_color">Relógio ecrã de bloqueio (cor)</string>
-  <string name="header_creator_label">Criador\u003a </string>
+  <string name="header_poly">Poly</string>
+  <string name="header_nature">Natureza</string>
+  <string name="weather_color">LockClock (colorido)</string>
+  <string name="header_creator_label">Autor\u003a </string>
 </resources>

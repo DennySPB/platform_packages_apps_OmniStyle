@@ -26,6 +26,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="header_naturerandom">Природа (случайно)</string>
   <string name="header_poly">Poly</string>
   <string name="header_nature">Природа</string>
-  <string name="weather_color">LockClock (цвет)</string>
+  <string name="weather_color">LockClock (цветные)</string>
   <string name="header_creator_label">Автор\u003a</string>
 </resources>

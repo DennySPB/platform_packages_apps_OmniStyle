@@ -26,6 +26,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="header_naturerandom">Natura (casuale)</string>
   <string name="header_poly">Poly</string>
   <string name="header_nature">Natura</string>
-  <string name="weather_color">LockClock (colore)</string>
+  <string name="weather_color">Orologio (colore)</string>
   <string name="header_creator_label">Creatore\u003a </string>
 </resources>

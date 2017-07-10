@@ -16,4 +16,13 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+  <string name="browse_header">Headers</string>
+  <string name="header_pack_label1">Screwd</string>
+  <string name="header_pack_label3">#BeExtended</string>
+  <string name="header_wavvy">Wavvy</string>
+  <string name="header_naturerandom">Natur (slumpmässig)</string>
+  <string name="header_poly">Poly</string>
+  <string name="header_nature">Natur</string>
+  <string name="weather_color">LockClock (färg)</string>
+</resources>

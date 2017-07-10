@@ -16,4 +16,16 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+  <string name="browse_header">標頭</string>
+  <string name="custom_header_image_notice">已設定標頭圖片</string>
+  <string name="header_pack_label1">Screwd</string>
+  <string name="header_pack_label2">Aex</string>
+  <string name="header_pack_label3">#BeExtended</string>
+  <string name="header_wavvy">Wavvy</string>
+  <string name="header_naturerandom">自然 (隨機)</string>
+  <string name="header_poly">多邊形</string>
+  <string name="header_nature">自然</string>
+  <string name="weather_color">LockClock （顏色）</string>
+  <string name="header_creator_label">創作者\u003a </string>
+</resources>
