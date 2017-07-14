@@ -19,5 +19,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <resources>
   <string name="browse_header">Nagłówki</string>
   <string name="custom_header_image_notice">Nagłówek ustawiony</string>
+  <string name="header_pack_label2">AEX</string>
+  <string name="header_pack_label3">#BeExtended</string>
+  <string name="header_naturerandom">Natura (losowe)</string>
+  <string name="header_nature">Natura</string>
+  <string name="weather_color">LockClock (kolor)</string>
   <string name="header_creator_label">Twórca\u003a </string>
 </resources>
