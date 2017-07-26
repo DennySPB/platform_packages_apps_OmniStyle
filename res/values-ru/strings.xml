@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Заголовки</string>
   <string name="custom_header_image_notice">Изображение для заголовка установлено</string>
   <string name="header_pack_label1">Screwd</string>
-  <string name="header_pack_label2">AEX</string>
+  <string name="header_pack_label2">Mono/Art</string>
   <string name="header_pack_label3">#BeExtended</string>
   <string name="header_wavvy">Wavvy</string>
   <string name="header_naturerandom">Природа (случайно)</string>

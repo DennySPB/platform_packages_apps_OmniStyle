@@ -12,12 +12,13 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
 <daylight_headers>
-    <hour_header hour="6" image="aex_1" />
-    <hour_header hour="9" image="aex_2" />
-    <hour_header hour="12" image="aex_3" />
-    <hour_header hour="15" image="aex_4" />
-    <hour_header hour="18" image="aex_5" />
-    <hour_header hour="21" image="aex_6" />
-    <hour_header hour="24" image="aex_7" />
-    <hour_header hour="3" image="aex_8" />
+    <change_interval minutes="50" />
+    <list_header image="monoart1" />
+    <list_header image="monoart2" />
+    <list_header image="monoart3" />
+    <list_header image="monoart4" />
+    <list_header image="monoart5" />
+    <list_header image="monoart6" />
+    <list_header image="monoart7" />
+    <list_header image="monoart8" />
 </daylight_headers>
